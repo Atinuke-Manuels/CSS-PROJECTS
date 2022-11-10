@@ -1,0 +1,25 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.yellow {
+    color: yellow;
+}
+
+img {
+    padding: 20px;
+    width: 250;
+    height: 100;
+}
